@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.encrytion_container {
+  display: flex;
+  margin: 25px;
+}
+
+.test {
+  display: flex;
+  flex-direction: column;
+  width: 40px;
+  text-align: center;
+}
+
+.cofactor_container {
+  display: flex;
+}
+
+.cofactor_container {
+  display: flex;
+}
+
+
+.cofactor_num {
+  margin: 5px;
+  width: 40px;
+  text-align: center;
+}
+
+.cofactor_transpose_container {
+  display: flex;
+}
+
+.decodeMatrix_container {
+  display: flex;
+}
+
+.decodeMatrix_innerContainer {
+  margin: 25px;
+  text-align: center;
+}
